@@ -1,0 +1,50 @@
+rename site-0.0
+rename site-0
+rename site-1
+rename site-2
+rename sitimg
+rename Trelo
+rename READM.md_
+rename Web
+rename aula28 jquery validate
+rename aula05 pagina web
+rename aula10 pagina web
+rename aula11 Tabeless
+rename aula13 Revisao
+rename aula19 paratica HTML e CSS
+rename aula20 pagina web
+rename aula24 jQuery
+rename aula25 pagina web
+rename aula26 jQuery
+rename aula27 jQuery
+rename aula29 Bootstrap-JS
+rename aula28.html
+rename Exercícios
+rename css
+mkdir ex2
+open_with nvim
+search snippets
+open_with 
+search ut
+rename Desenvolvedor-Front-end.pdf
+rename README.md
+search 28
+search bar
+rename coc-settings.json
+search con
+search ra
+search nv
+search nvim
+rename nvim-
+rename nvim
+rename ale
+rename coc.nvim-
+rename coc.nvim--
+rename coc.nvim----
+rename coc.nvim
+rename .vim
+rename coc-setting.json
+rename a
+rename m2
+rename dwm-
+delete
